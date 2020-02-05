@@ -31,11 +31,11 @@ export function ViolationsTab({
         </a>{' '}
         conforms to&nbsp;
         <a
-          href="http://zalando.github.io/restful-api-guidelines/"
+          href="https://rest-guide.verz.local/"
           target="_blank"
           className="dc-link"
         >
-          Zalando's REST API Guidelines
+          deVolksbank's REST API Guidelines
         </a>
       </h4>
 
